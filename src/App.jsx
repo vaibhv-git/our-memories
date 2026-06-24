@@ -2,29 +2,29 @@ import { useState, useEffect } from "react";
 
 const memories = [
   {
-    image: "/img1.jpg",
+    image: "./img1.jpg",
     title: "The First Day I Saw You",
     text: `When it was my first day at the gym, I noticed you right away. Honestly, I was really impressed by you. There was just something different about you that made you stand out from everyone else.
 
 I think you became a bit of a crush for me from that very first day. I wanted to come and talk to you, but I didn't have enough confidence back then, so I never did. Still, I remember noticing you and thinking that you seemed really special.`,
   },
 {
-  image: "/img2.jpg",
+  image: "./img2.jpg",
   title: "New Year Party",
   text: "I still remember that New Year's party. The moment I entered, you were right in front of me, and somehow I spotted you instantly because nobody else really caught my attention. Later, you went into the hall, and when I came inside, you were sitting with your friend. Throughout the evening, I kept noticing you while dancing and enjoying the party. Then, just when we were about to leave and head home, you randomly asked me, 'Did you eat?' It felt a little unexpected at the time, but looking back, it's one of those small moments that stayed with me. It may seem simple, but it's one of my favorite memories with you.",
 },
   {
-    image: "/img3.jpg",
+    image: "./img3.jpg",
     title: "The first time in the gym, you asked me for a spot",
     text: "I remember you were doing shoulder presses and had asked someone else for a spot. He was busy, so he asked me to help you instead. That was probably the first real interaction we had in the gym. A while after that, we ended up doing preacher curls together, and while spotting you, I noticed a few things you could improve. Looking back, it all started with such a simple gym moment, but maybe it was the beginning of something good.",
   },
   {
-    image: "/img4.jpg",
+    image: "./img4.jpg",
     title: "How It All Started",
     text: "When I followed you on Instagram, I honestly had no idea how to start a conversation. The first thing I texted you about was that preacher curl thing, which was a little weird. I still remember you asking, 'Did you follow me just to tell me that?' 😭 But somehow, that awkward start turned into something much better. Just a few days later, we started watching movies together on Google Meet, and after the movie we'd stay up talking until 5 in the morning. Now we even try to match our gym routines and sometimes end up twinning without planning it. Looking back, things got a lot better after that first awkward message.",
   },
   {
-    image: "/img5.jpg",
+    image: "./img5.jpg",
     title: "Our First Date",
     text: "It was a Sunday. You had gone to your nani's place, and when you came back, we finally got to meet. I still remember you arriving around 8:22 PM. We went out on my bike and started the evening with a shake that was way too sweet and honestly a little weird. Somewhere in between, I spent most of the time flirting with you. After that, we went to eat momos together, and getting to sit there and share that simple moment with you felt special. On the way back, I kept asking, 'Puchhii kro mere cheeks pe,' and after asking a few times, you finally did. Of course, I asked again, and you gave me another puchhii. When we reached outside your society, neither of us really wanted the night to end. Before you left, I gave you a hug and a puchhii on the cheek. It was one of my favorite memories with you, and hopefully just the beginning of many more memories we'll create together.",
   },
