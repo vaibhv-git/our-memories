@@ -24,7 +24,7 @@ I think you became a bit of a crush for me from that very first day. I wanted to
     text: "When I followed you on Instagram, I honestly had no idea how to start a conversation. The first thing I texted you about was that preacher curl thing, which was a little weird. I still remember you asking, 'Did you follow me just to tell me that?' 😭 But somehow, that awkward start turned into something much better. Just a few days later, we started watching movies together on Google Meet, and after the movie we'd stay up talking until 5 in the morning. Now we even try to match our gym routines and sometimes end up twinning without planning it. Looking back, things got a lot better after that first awkward message.",
   },
   {
-   image: `${BASE}img4.jpg`,
+   image: `${BASE}img5.jpg`,
     title: "Our First Date",
     text: "It was a Sunday. You had gone to your nani's place, and when you came back, we finally got to meet. I still remember you arriving around 8:22 PM. We went out on my bike and started the evening with a shake that was way too sweet and honestly a little weird. Somewhere in between, I spent most of the time flirting with you. After that, we went to eat momos together, and getting to sit there and share that simple moment with you felt special. On the way back, I kept asking, 'Puchhii kro mere cheeks pe,' and after asking a few times, you finally did. Of course, I asked again, and you gave me another puchhii. When we reached outside your society, neither of us really wanted the night to end. Before you left, I gave you a hug and a puchhii on the cheek. It was one of my favorite memories with you, and hopefully just the beginning of many more memories we'll create together.",
   },
